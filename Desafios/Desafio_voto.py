@@ -1,8 +1,8 @@
-idade = int(input("Qual a sia idade?: "))
+idade = int(input("Qual a sua idade?: "))
 
 if idade <=16:
     print("Opcional")
 elif idade >=18:
     print("Obrigatorio")
-else idade >70:
+else:
     print("Opcional")
